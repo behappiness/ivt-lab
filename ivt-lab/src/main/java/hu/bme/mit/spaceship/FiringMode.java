@@ -2,7 +2,7 @@ package hu.bme.mit.spaceship;
 
 /**
 * Weapon firing mode enumeration
-* Valtoztatas-AAA
+* Valtozas-BBB
 */
 public enum FiringMode {
   SINGLE, ALL
